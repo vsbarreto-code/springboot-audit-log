@@ -1,4 +1,8 @@
-# Auditlog
+# AuditLog
+Projeto desenvolvido como parte de uma série de desafios técnicos para treino de backend com Java e Spring Boot, simulando processos seletivos reais.
+
+---
+
 
 API REST para análise em lote de operações financeiras (créditos e débitos), com identificação automática de inconsistências com base em regras de negócio pré-definidas.
 
